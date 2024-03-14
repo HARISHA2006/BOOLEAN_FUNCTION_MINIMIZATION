@@ -52,14 +52,18 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+
 ![WhatsApp Image 2023-12-22 at 14 05 23_7aead406](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/f3211b49-bd3c-4302-b3a9-f71f4ba58fe1)
+
 **Output:**
+
 ![WhatsApp Image 2023-12-22 at 14 07 03_020500d0](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/5e57d2a5-c8e3-4ba8-988e-042ebba5119b)
 
 **RTL**
 
 **Timing Diagram**
 ![IMG_20231223_100210](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/61447713-d289-43b1-a284-df6ea5067c3c)
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
